@@ -1,0 +1,24 @@
+series: Basic C++
+
+title:  Big Three Introduction
+author:
+
+  name: David I. Schwartz
+ 
+  email:
+ 
+  github: https://github.com/IGME-RIT
+
+description: An example demonstrating the concept of Big Three.
+
+language: C++
+
+tags:
+  - Core
+
+extra_resources:
+
+connections:
+
+  - series: 
+    title: 
